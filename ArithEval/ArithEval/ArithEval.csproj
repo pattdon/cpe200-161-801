@@ -46,7 +46,9 @@
     <Compile Include="AllExpr.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="Expr.cs" />
+    <Compile Include="INodeFactory.cs" />
     <Compile Include="NodeFactory.cs" />
+    <Compile Include="Parser.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
